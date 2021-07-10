@@ -58,7 +58,7 @@
     "gatsby-plugin-webmention": "^0.2.0",
     "gatsby-remark-images": "^4.2.0",
     "gatsby-source-filesystem": "^3.2.0",
-    "gatsby-source-graphql": "^3.2.0",
+    "gatsby-source-graphql": "^3.9.0",
     "gatsby-transformer-cloudinary": "^2.2.4",
     "gatsby-transformer-remark": "^3.2.0",
     "gatsby-transformer-sharp": "^3.2.0",
